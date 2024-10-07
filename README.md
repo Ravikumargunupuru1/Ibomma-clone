@@ -1,4 +1,4 @@
-@ iBomma Clone
+# iBomma Clone
 This is a clone of the iBomma website, built for educational purposes only. iBomma is a popular online streaming platform where users can watch and download Telugu movies. This project replicates its frontend and backend structure with the goal of understanding how similar sites function. Please note that this project does NOT host any real copyrighted content, and is strictly for learning purposes.
 
 Features
