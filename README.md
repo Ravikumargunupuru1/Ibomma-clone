@@ -9,7 +9,7 @@ This is a clone of the iBomma website, built for educational purposes only. iBom
 * User Authentication: Log in, sign up, and manage accounts
 * Watchlist: Add movies to a personal watchlist
 # Tech Stack
-*Frontend: HTML5, CSS3, JavaScript, React.js
+* Frontend: HTML5, CSS3, JavaScript, React.js
 * Backend: Node.js, Express.js
 * Database: MongoDB
 * Authentication: JWT (JSON Web Tokens)
